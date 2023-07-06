@@ -27,3 +27,32 @@
 .item:hover{
   color: tomato;
 }
+.banner-img{
+  height:300px ;
+ 
+}
+.banner-container{
+  display: flex;
+  color: white;
+  justify-content: space-around;
+  height: 100vh;
+  border: 1px solid grey ;
+  align-items: center;
+  background-image: url("/images/background.png"), linear-gradient(45deg,#4a4444,#2c2424) ;
+  
+}
+.text-b{
+  font-size: 40px;
+  margin: 20px;
+  
+}
+.raj1{
+  font-size: 20px;
+  margin: 20px;
+}
+button{
+ background-color: red;
+ color: aliceblue;
+ border: 2px solid tomato;
+ border-radius: 10px;
+}
