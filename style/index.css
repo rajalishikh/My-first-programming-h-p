@@ -55,4 +55,22 @@ button{
  color: aliceblue;
  border: 2px solid tomato;
  border-radius: 10px;
+ padding: 15px;
+ margin: 20px;
+}
+.pic11{
+  height: 400px;
+}
+.about-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+  margin: 50px;
+  height: 100vh;
+}
+.head2{
+  text-align: center;
+  font-size: 50px;
+  
 }
