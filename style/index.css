@@ -67,10 +67,53 @@ button{
   align-items: center;
   padding: 30px;
   margin: 50px;
-  height: 100vh;
+ 
 }
-.head2{
+
+  
+
+.box{
+  width: 280px;
+  height: 280px;
+  box-shadow: 4px 4px 25px gray ;
+  background-color: black;
+  text-align: center;
+  color: aliceblue;
+  margin: 20px;
+  padding: 10px;
+}
+.icon-1{
+  height: 70px;
+}
+.raj2{
+  background-color: gray;
+ color: aliceblue;
+ border: 2px solid rgb(178, 172, 171);
+ border-radius: 10px;
+ padding: 15px;
+ margin: 20px;
+
+}
+
+.head4{
+  color: white;
   text-align: center;
   font-size: 50px;
+}
+.service-section{
+
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+ 
   
+}
+.gray{
+  background-color: rgb(34, 33, 33);
+}
+#about{
+   text-align: center;
+  font-size: 50px;
+  color: grey;
+
 }
